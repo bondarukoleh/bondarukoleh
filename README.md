@@ -29,6 +29,7 @@ Now I'm passionate to work as a **web developer** :globe_with_meridians:.
 ![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=bondarukoleh&layout=compact&theme=cobalt&hide=TSQL)
 
 ---
-**Get in touch:** \
+**Get in touch:** 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oleh-bondaruk-26b996ab/)
 
