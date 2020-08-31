@@ -25,7 +25,8 @@ Now I'm passionate to work as a **web developer** :globe_with_meridians:.
 [![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=5dadec)](https://docs.microsoft.com/en-us/windows/)
 [![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=5dadec)](https://www.kernel.org/doc/html/latest/)
 
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=bondarukoleh&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=cobalt&layout=compact)](https://github.com/bondarukoleh/github-readme-stats) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=bondarukoleh&layout=compact&theme=cobalt)](https://github.com/pedes/github-readme-stats)
+![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=bondarukoleh&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&theme=cobalt&layout=compact)
+![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=bondarukoleh&layout=compact&theme=cobalt&hide=TSQL)
 
 ---
 **Get in touch:** \
