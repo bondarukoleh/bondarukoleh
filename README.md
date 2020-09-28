@@ -5,9 +5,11 @@
 
 I have 6 years of experience in IT, most of them as an Automation QA:mag: \
 Now I'm passionate to work as a **web developer** :globe_with_meridians:
-#### Portfolio
-[Static sites examples (HTML/CSS)](https://tender-brown-13edfc.netlify.app/)
-[Email quiz application (MERN)](https://olehbondaruk-emaily-server.herokuapp.com/)
+
+---
+### :eyes: Portfolio:
+:point_right:[Static sites examples (HTML/CSS)](https://tender-brown-13edfc.netlify.app/) \
+:point_right:[Email quiz application (MERN)](https://olehbondaruk-emaily-server.herokuapp.com/)
 
 ---
 #### Skills:
