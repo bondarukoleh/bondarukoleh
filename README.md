@@ -9,7 +9,7 @@ Now I'm passionate to work as a **web developer** :globe_with_meridians:
 ---
 ### :book::eyes: Portfolio:
 :point_right: [Static sites examples (HTML/CSS)](https://tender-brown-13edfc.netlify.app/) \
-:point_right: [Email quiz application (MERN)](https://olehbondaruk-emaily-server.herokuapp.com/)
+:point_right: [Email quiz application (MERN)](https://olehbondaruk-emaily-server.herokuapp.com/) \
 :point_right: [Burger cafe (React)](https://oleh-burger-cafe-811ed.web.app/)
 
 ---
