@@ -3,7 +3,13 @@
 ## Hi there, everybody! <img src="https://raw.githubusercontent.com/bondarukoleh/bondarukoleh/master/assets/wave.gif" width="30px">
 #### I am a code guy:computer: who likes to make things work:hammer:, nice to see you dropped by.
 
-I have 7 years of experience in IT, most of them as an Automation QA:mag:. \
+I have 7 years of experience in IT, most of them as an Automation QA:mag: \
+
+---
+### :book::eyes: Portfolio:
+:point_right: [Static sites examples (HTML/CSS)](https://tender-brown-13edfc.netlify.app/) \
+:point_right: [Email quiz application (MERN)](https://olehbondaruk-emaily-server.herokuapp.com/) \
+:point_right: [Burger cafe (React)](https://oleh-burger-cafe-811ed.web.app/)
 
 ---
 #### Skills:
