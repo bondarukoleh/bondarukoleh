@@ -3,8 +3,7 @@
 ## Hi there, everybody! <img src="https://raw.githubusercontent.com/bondarukoleh/bondarukoleh/master/assets/wave.gif" width="30px">
 #### I am a code guy:computer: who likes to make things work:hammer:, nice to see you dropped by.
 
-I have 6 years of experience in IT, most of them as an Automation QA:mag:. \
-Now I'm passionate to work as a **web developer** :globe_with_meridians:.
+I have 7 years of experience in IT, most of them as an Automation QA:mag:. \
 
 ---
 #### Skills:
